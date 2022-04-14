@@ -707,12 +707,12 @@ p.desc {
 
 .gallery ul li {
     display: inline-block;
-    width: 31.444%;
+    width: 31%;
     margin-right: 2.5%;
 }
 
 .gallery ul li.last {
-    width: 31.444%;
+    width: 31%;
     margin-right: 0px;
 }
 
