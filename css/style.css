@@ -333,7 +333,7 @@ h5.ph-no {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 1.5em;
     line-height: 50px;
-    padding: 35px 20px 70px;
+    padding: 25px 20px 55px;
     -webkit-transition: color .15s;
     -moz-transition: color .15s;
     -o-transition: color .15s;
@@ -344,7 +344,7 @@ h5.ph-no {
 #cssmenu li.active a,
 #cssmenu li a:hover {
     color: #fff;
-    background: rgba(22, 7, 105, 0.38);
+    background: rgba(49, 25, 185, 0.4);
 }
 
 #cssmenu>ul>li>ul {
@@ -534,7 +534,7 @@ h5.head {
 .col_1_of_3 {
     display: block;
     float: left;
-    margin: 0% 0 0% 3.6%;
+    margin: 0% 0.7% 0% 3.6%;
 }
 
 .col_1_of_3:first-child {
