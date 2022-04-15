@@ -542,7 +542,7 @@ h5.head {
 }
 
 .span_1_of_3 {
-    width: 30.2%;
+    width: 29%;
 }
 
 .span_1_of_3 h3 {
@@ -635,7 +635,7 @@ h4 span {
 
 .box-1 .inside p {
     color: #888;
-    padding: 10% 0 5%;
+    padding: 10% 0 5% 0;
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 1.1em;
     line-height: 1.5em;
@@ -666,7 +666,7 @@ h2.v1 {
 }
 
 .box-1 .box-btn:hover {
-    background: #C4DDAB url(../images/arrow3.png) center center no-repeat;
+    background: #b0abdd url(../images/arrow3.png) center center no-repeat;
 }
 
 p.desc {
